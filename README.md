@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi 👋 I'm Kaushika
 
-<!--
-**kaushikaMadushani/kaushikaMadushani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc in Remote Sensing & GIS (Geospatial Computer Science)
+🛰️ Interested in satellite image analysis, GIS analysis, and spatial data science 
 
-Here are some ideas to get you started:
+### Skills
+- GIS: QGIS, ArcGIS
+- Remote Sensing: Sentinel, Landsat
+- Programming: Python , Java (basic), Google Earth Engine
+- Spatial Analysis & Mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm doing now
+- Building small RS & GIS projects
+- Learning through hands-on analysis
+- Sharing workflows and results on GitHub
+
+📌 This GitHub is a collection of my learning projects and analyses.
